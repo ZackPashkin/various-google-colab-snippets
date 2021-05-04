@@ -11,6 +11,9 @@ https://colab.research.google.com/drive/1X-bJV888oPFQJG0fXfyMaUyR1-ICpD-8?usp=sh
 Install latest torch nightly
 https://colab.research.google.com/drive/1zci2I8VDsbKpeaDM6KnUx547wvob2sUH?usp=sharing
 
+Get video and captions from youtube
+https://colab.research.google.com/drive/1d5wQS7CfbFc4jqUn14RPfAhkF9h56_kk?usp=sharing
+
 and more 
 
 # You can add to your colab snippets by 
