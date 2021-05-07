@@ -14,6 +14,9 @@ https://colab.research.google.com/drive/1zci2I8VDsbKpeaDM6KnUx547wvob2sUH?usp=sh
 Get video and captions from youtube
 https://colab.research.google.com/drive/1d5wQS7CfbFc4jqUn14RPfAhkF9h56_kk?usp=sharing
 
+Prepare for Android. Torch Model Dynamic Quanitization (Only linear or lstm layers)
+https://colab.research.google.com/drive/1oPxjKz1GajcFsIqi2WjyjLRdL_4K8Ue0?usp=sharing
+
 and more 
 
 # You can add to your colab snippets by 
@@ -30,4 +33,4 @@ https://colab.research.google.com/drive/1JibKQq6bzp1Fb9rt1RzyZpd9OF_gpypc
 https://colab.research.google.com/drive/1YacKJw3_ZXxS4WUDMqWzn-c0TRvqrAmG
 https://colab.research.google.com/drive/1WntoHld8FBY7hvd1LNUF4rgAIhB4L-dD
 https://colab.research.google.com/drive/1uhSc8VJC5LTT-E1sD4g1bsr2Haj6cEN7
-
+https://colab.research.google.com/drive/1oPxjKz1GajcFsIqi2WjyjLRdL_4K8Ue0
