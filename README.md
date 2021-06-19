@@ -23,6 +23,9 @@ https://colab.research.google.com/drive/1lGYkbD1H4XZJ0re_qze4CsrsXLcjG60O
 Pytorch: create a simple model Linear Conv2d
 https://colab.research.google.com/drive/1TVjQpGPDJyVYu1od8JGabO6wO8KQxfo0
 
+Pytorch: create a simple model with activation function and pooling
+https://colab.research.google.com/drive/1gWjTwNNmaEKD1TABXs8w_HmCDgj4bMIA
+
 and more 
 
 # You can add to your colab snippets by 
@@ -42,6 +45,7 @@ https://colab.research.google.com/drive/1uhSc8VJC5LTT-E1sD4g1bsr2Haj6cEN7
 https://colab.research.google.com/drive/1oPxjKz1GajcFsIqi2WjyjLRdL_4K8Ue0
 https://colab.research.google.com/drive/1lGYkbD1H4XZJ0re_qze4CsrsXLcjG60O
 https://colab.research.google.com/drive/1TVjQpGPDJyVYu1od8JGabO6wO8KQxfo0
+https://colab.research.google.com/drive/1gWjTwNNmaEKD1TABXs8w_HmCDgj4bMIA
 
 
 If you find this repository useful, please consider giving a star ⭐ 
