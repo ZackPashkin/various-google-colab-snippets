@@ -26,6 +26,8 @@ https://colab.research.google.com/drive/1TVjQpGPDJyVYu1od8JGabO6wO8KQxfo0
 Pytorch: create a simple model with activation function and pooling
 https://colab.research.google.com/drive/1gWjTwNNmaEKD1TABXs8w_HmCDgj4bMIA
 
+Display video in colab
+https://colab.research.google.com/drive/1oMBkJEOM53w0mJG136QvDDBNYNwpcUIR
 and more 
 
 # You can add to your colab snippets by 
@@ -46,6 +48,6 @@ https://colab.research.google.com/drive/1oPxjKz1GajcFsIqi2WjyjLRdL_4K8Ue0
 https://colab.research.google.com/drive/1lGYkbD1H4XZJ0re_qze4CsrsXLcjG60O
 https://colab.research.google.com/drive/1TVjQpGPDJyVYu1od8JGabO6wO8KQxfo0
 https://colab.research.google.com/drive/1gWjTwNNmaEKD1TABXs8w_HmCDgj4bMIA
-
+https://colab.research.google.com/drive/1oMBkJEOM53w0mJG136QvDDBNYNwpcUIR
 
 If you find this repository useful, please consider giving a star ⭐ 
