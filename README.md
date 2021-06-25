@@ -30,7 +30,7 @@ Display video in colab
 https://colab.research.google.com/drive/1oMBkJEOM53w0mJG136QvDDBNYNwpcUIR
 
 Pytorch: dataset class for image classification problem
-https://colab.research.google.com/drive/1Yl7dzE75Z7tzx7LoRlP7geqbPrnBY8J_
+https://colab.research.google.com/drive/1Yl7dzE75Z7tzx7LoRlP7geqbPrnBY8J_?usp=sharing
 
 
 and more 
@@ -54,6 +54,6 @@ https://colab.research.google.com/drive/1lGYkbD1H4XZJ0re_qze4CsrsXLcjG60O
 https://colab.research.google.com/drive/1TVjQpGPDJyVYu1od8JGabO6wO8KQxfo0
 https://colab.research.google.com/drive/1gWjTwNNmaEKD1TABXs8w_HmCDgj4bMIA
 https://colab.research.google.com/drive/1oMBkJEOM53w0mJG136QvDDBNYNwpcUIR
-https://colab.research.google.com/drive/1Yl7dzE75Z7tzx7LoRlP7geqbPrnBY8J_
+https://colab.research.google.com/drive/1Yl7dzE75Z7tzx7LoRlP7geqbPrnBY8J_?usp=sharing
 
 If you find this repository useful, please consider giving a star ⭐ 
